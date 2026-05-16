@@ -1,4 +1,4 @@
-# 
+# high-frequency binance futures bot Tool | position-sizing + low-frequency offers the most advanced binance futures bot, with position-sizing and low-frequency. Ideal for
 
 
 
